@@ -2,3 +2,9 @@
 ### Login dengan QR
 
 # Ambil token via QR
+
+Buka Termux
+cd TokenPy
+python3 ( modul token )
+
+Thank's To Bang Aditmadzs

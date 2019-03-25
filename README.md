@@ -4,7 +4,9 @@
 # Ambil token via QR
 
 Buka Termux
-cd TokenPy
+
+cd TokenPy-Line-Bot
+
 python3 ( modul token )
 
 Thank's To Bang Aditmadzs
